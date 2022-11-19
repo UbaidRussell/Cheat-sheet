@@ -1,0 +1,21 @@
+body{
+    background-color: #94B49F;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #FCF8E8;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #FCF8E8;
+}
+footer{
+    position: fixed;
+}
