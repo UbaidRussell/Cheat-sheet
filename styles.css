@@ -22,3 +22,6 @@ footer{
 h2{
     text-align: center;
 }
+td span{
+  background-color: pink;
+}
