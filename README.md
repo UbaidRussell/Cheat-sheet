@@ -2,4 +2,4 @@
 
 ###  View online site here : https://ubaidrussell.com/Cheat-sheet/
 
-Don't forget to ⭐️ this repo to stay updated.
+Don't forget to ⭐️ the repository
